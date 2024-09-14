@@ -1,4 +1,4 @@
-# Frontend Mentor - E-commerce product page solution
+# Frontend - E-commerce product page solution
 
 ### The challenge
 
